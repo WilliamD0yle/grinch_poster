@@ -36,21 +36,21 @@ transition:0.1s;
 }
 
 .layer-1 {
-background-image: url('http://williamdoylewebdesign.com/public_html/grinch/img/layer1.png');
+background-image: url('http://williamdoylewebdesign.com/grinch/img/layer1.png');
 }
 .layer-2 {
-background-image: url('http://williamdoylewebdesign.com/public_html/grinch/img/layer4.png');
+background-image: url('http://williamdoylewebdesign.com/grinch/img/layer4.png');
 }
 .layer-3 {
 top: 0; bottom: 0;
 left: 0; right: 0;
-background-image: url('http://williamdoylewebdesign.com/public_html/grinch/img/layer3.png');
+background-image: url('http://williamdoylewebdesign.com/grinch/img/layer3.png');
 }
 .layer-4 {
-background-image: url('http://williamdoylewebdesign.com/public_html/grinch/img/layer2.png');
+background-image: url('http://williamdoylewebdesign.com/grinch/img/layer2.png');
 }
 .layer-5 {
-background-image: url('http://williamdoylewebdesign.com/public_html/grinch/img/layer5.png');
+background-image: url('http://williamdoylewebdesign.com/grinch/img/layer5.png');
 }
 
 button {
